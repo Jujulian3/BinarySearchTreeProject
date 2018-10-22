@@ -35,11 +35,15 @@ public class Program {
 		switch (sc.nextLine()) {
 		case "1":
 			System.out.println("INSERIR");
-			tree.addNode(validInput().charAt(0));
+			char letterToAdd = validInput().charAt(0);
+			tree.addNode(letterToAdd);
+			System.out.println("Letra inserida: " + letterToAdd + "\n");
 			break;
 		case "2":
 			System.out.println("REMOVER");
-			tree.removeNode(validInput().charAt(0));
+			char letterToRemove = validInput().charAt(0);
+			tree.removeNode(letterToRemove);
+			System.out.println("Letra removida: " + letterToRemove + "\n");
 			break;
 		case "3":
 			System.out.println("EXIBIR");
