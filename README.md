@@ -3,14 +3,14 @@ A project that presents the implementation of a Binary Search Tree
 
 ## Requirements
 1. Implement a Binary Search Tree that allows only **letters** and contains these basic methods:
-  a. Insert a node
-  b. Remove a node
-  c. print the tree
+  1.a. Insert a node
+  1.b. Remove a node
+  1.c. print the tree
 2. The program should present a menu with these options:
-  a. Insert
-  b. Remove
-  c. Show
-  d. Quit
+  2.a. Insert
+  2.b. Remove
+  2.c. Show
+  2.d. Quit
 
 This project is part of a sequence of exercises proposed in the Data Structure discipline
   
