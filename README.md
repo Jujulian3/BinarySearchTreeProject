@@ -3,9 +3,9 @@ A project that presents the implementation of a Binary Search Tree
 
 ## Requirements
 1. Implement a Binary Search Tree that allows only **letters** and contains these basic methods:
-  1.a. Insert a node
-  1.b. Remove a node
-  1.c. print the tree
+  * Insert a node
+  * Remove a node
+  * print the tree
 2. The program should present a menu with these options:
   2.a. Insert
   2.b. Remove
