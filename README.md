@@ -15,7 +15,6 @@ A project that presents the implementation of a Binary Search Tree
 This project is part of a sequence of exercises proposed in the Data Structure discipline
   
 -----
-# BinarySearchTreeProject
 Um projeto que apresenta a implementação de uma árvore binária de busca
 
 ## Requisitos
